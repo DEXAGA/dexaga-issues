@@ -17,4 +17,4 @@ We are very interested in compensating anyone that can identify a security relat
 
  
 ## Enterprise Support
-Enterprise support is offered by Dexaga, please contact us and let us know how we can help. Find our Contact section on  [https://dexaga.com](https://dexaga.com).
+Enterprise support is offered by Dexaga, please contact us and let us know how we can help. Find our Contact section on  [https://dexaga.com](https://dexaga.com/#contact-form).
