@@ -11,7 +11,7 @@ Please only use this project to report or track issues with the product itself, 
 1. Please do not request updates on progress or deliver dates. If you have a paid edition of Dexaga, please make these inqurires through your support channel.  
  
 ## Security disclosures
-If you find a vulnerability or other security related bug, please send a note to contact@dexaga.com before opening a GitHub issue. This will allow us to assess the disclosure and prepare a fix prior to a public disclosure. 
+If you find a vulnerability or other security related bug, please send a note  [to us directly](https://dexaga.com/#contact-form) before opening a GitHub issue. This will allow us to assess the disclosure and prepare a fix prior to a public disclosure. 
 
 We are very interested in compensating anyone that can identify a security related bug or vulnerability and properly disclose it to us.
 
