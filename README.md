@@ -15,4 +15,4 @@ If you find a vulnerability or other security related bug, please send a note  [
 We are very interested in compensating anyone that can identify a security related bug or vulnerability and properly disclose it to us.
  
 ## Enterprise Support
-Enterprise support is offered by Dexaga, please contact us and let us know how we can help. Find our Contact section on  [https://dexaga.com](https://dexaga.com/#contact-form).
+Enterprise support is offered by Dexaga, please contact us and let us know how we can help. Find our Contact section on  [https://dexaga.com](https://dexaga.com/contact).
