@@ -1,7 +1,7 @@
 # Dexaga Issues
 We hope you love using Dexaga, but in case you encounter a bug or an issue with the software please do let us know.
 
-Click on the **Issues** tab or click right [here](https://github.com/DEXAGA/dexaga-issues/issues/new/choose) to open an issue.
+Click on the **Issues** tab or click right [here](https://github.com/DEXAGA/dexaga-issues/issues/new/choose) to open an issue, request a new feature or share some general thoughts about Dexaga.
 
 Please only use this project to report or track issues with the product itself, if you have an issue with documentation or a client library see below for the correct place to report your issue.
  
